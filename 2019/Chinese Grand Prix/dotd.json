@@ -6,6 +6,22 @@
     {
       "driver": "Alexander Albon",
       "percentage": 17.7
+    },
+    {
+      "driver": "Kimi Raikkonen",
+      "percentage": 15.7
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 15.4
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 13.4
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 7.7
     }
   ]
 }

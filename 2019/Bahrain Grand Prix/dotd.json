@@ -8,6 +8,10 @@
       "percentage": 50.23
     },
     {
+      "driver": "Lewis Hamilton",
+      "percentage": 10.98
+    },
+    {
       "driver": "Lando Norris",
       "percentage": 8.01
     },
@@ -16,7 +20,7 @@
       "percentage": 6.8
     },
     {
-      "driver": "Kimi Räikkönen",
+      "driver": "Kimi R\u00e4ikk\u00f6nen",
       "percentage": 6.17
     }
   ]

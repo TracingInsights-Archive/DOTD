@@ -1,0 +1,27 @@
+{
+  "race_name": "Australian Grand Prix",
+  "year": 2019,
+  "winner": "Valtteri Bottas",
+  "voting_results": [
+    {
+      "driver": "Valtteri Bottas",
+      "percentage": 28.5
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 22.9
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 7.5
+    },
+    {
+      "driver": "Daniil Kvyat",
+      "percentage": 6.0
+    },
+    {
+      "driver": "Kimi R\u00e4ikk\u00f6nen",
+      "percentage": 5.2
+    }
+  ]
+}
