@@ -1,0 +1,15 @@
+{
+  "race_name": "Belgian Grand Prix",
+  "year": 2019,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 21.2
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 6.6
+    }
+  ]
+}

@@ -26,8 +26,153 @@ def fetch_markdown_from_url(url):
         return None
 
 
+def read_local_markdown_file(year):
+    """Read markdown content from local file"""
+    filename = f"dotd_{year}.md"
+
+    try:
+        print(f"Reading local file: {filename}")
+        with open(filename, "r", encoding="utf-8") as f:
+            content = f.read()
+
+        print(f"Successfully read {len(content)} characters from {filename}")
+        return content
+
+    except FileNotFoundError:
+        print(f"Local file {filename} not found")
+        return None
+    except Exception as e:
+        print(f"Error reading local file {filename}: {e}")
+        return None
+
+
+def extract_dotd_data_from_local(content, year):
+    """Extract Driver of the Day data from local markdown content (different format)"""
+
+    # Get race mappings for the year
+    race_mappings = F1_RACES.get(year, {})
+
+    all_races_data = []
+
+    if year == 2019:
+        # 2019 format: ### Nico Hulkenberg, Renault - Formula 1 Etihad Airways Abu Dhabi Grand Prix 2019
+        race_sections = re.findall(
+            r"### (.+?) - (Formula 1 .+? \d{4})\n\n.*?\n\n.*?\n\n\*\*(.*?)\*\*",
+            content,
+            re.DOTALL,
+        )
+
+        for winner_info, race_title, voting_data in race_sections:
+            print(f"Processing race: {race_title}")
+
+            # Get clean race name from mapping
+            clean_race_name = race_mappings.get(
+                race_title,
+                race_title.replace("Formula 1 ", "").replace(f" {year}", "").strip(),
+            )
+
+            # Extract voting percentages
+            vote_lines = voting_data.strip().split("\n")
+            drivers_votes = []
+
+            for line in vote_lines:
+                line = line.strip()
+                if not line:
+                    continue
+
+                # Handle em dash (–) for 2019
+                if " – " in line and "%" in line:
+                    parts = line.split(" – ")
+                    if len(parts) >= 2:
+                        driver_name = parts[0].strip()
+                        percentage_str = parts[1].strip().replace("%", "")
+
+                        try:
+                            percentage_float = float(percentage_str)
+                            drivers_votes.append(
+                                {"driver": driver_name, "percentage": percentage_float}
+                            )
+                        except ValueError:
+                            print(f"Could not parse percentage: {percentage_str}")
+                            continue
+
+            if not drivers_votes:
+                print(f"No valid voting data found for {race_title}")
+                continue
+
+            # Create race data structure
+            race_data = {
+                "race_name": clean_race_name,
+                "year": int(year),
+                "winner": drivers_votes[0]["driver"] if drivers_votes else None,
+                "voting_results": drivers_votes,
+            }
+
+            all_races_data.append(race_data)
+            save_race_data(race_data, year, clean_race_name)
+
+    elif year in [2020, 2021]:
+        # 2020/2021 format: ### Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020/2021
+        race_sections = re.findall(
+            r"### (Formula 1 .+? \d{4})\n\n.*?\n\n.*?\n\n\*\*(.*?)\*\*",
+            content,
+            re.DOTALL,
+        )
+
+        for race_title, voting_data in race_sections:
+            print(f"Processing race: {race_title}")
+
+            # Get clean race name from mapping
+            clean_race_name = race_mappings.get(
+                race_title,
+                race_title.replace("Formula 1 ", "").replace(f" {year}", "").strip(),
+            )
+
+            # Extract voting percentages
+            vote_lines = voting_data.strip().split("\n")
+            drivers_votes = []
+
+            for line in vote_lines:
+                line = line.strip()
+                if not line:
+                    continue
+
+                # Handle regular dash (-) for 2020/2021
+                if " - " in line and "%" in line:
+                    parts = line.split(" - ")
+                    if len(parts) >= 2:
+                        driver_name = parts[0].strip()
+                        percentage_str = parts[1].strip().replace("%", "")
+
+                        try:
+                            percentage_float = float(percentage_str)
+                            drivers_votes.append(
+                                {"driver": driver_name, "percentage": percentage_float}
+                            )
+                        except ValueError:
+                            print(f"Could not parse percentage: {percentage_str}")
+                            continue
+
+            if not drivers_votes:
+                print(f"No valid voting data found for {race_title}")
+                continue
+
+            # Create race data structure
+            race_data = {
+                "race_name": clean_race_name,
+                "year": int(year),
+                "winner": drivers_votes[0]["driver"] if drivers_votes else None,
+                "voting_results": drivers_votes,
+            }
+
+            all_races_data.append(race_data)
+            save_race_data(race_data, year, clean_race_name)
+
+    return all_races_data
+
+
 def extract_dotd_data(content, year):
-    """Extract Driver of the Day data from markdown content"""
+    """Extract Driver of the Day data from markdown content (URL format)"""
 
     # Get race mappings for the year
     race_mappings = F1_RACES.get(year, {})
@@ -112,16 +257,26 @@ def process_year(year, url):
     print(f"Processing {year} Driver of the Day data...")
     print(f"{'=' * 50}")
 
-    # Fetch markdown content from URL
-    content = fetch_markdown_from_url(url)
+    # Check if we should use local file for years 2019-2021
+    if year in [2019, 2020, 2021]:
+        content = read_local_markdown_file(year)
+        use_local_format = True
+    else:
+        # Fetch markdown content from URL
+        content = fetch_markdown_from_url(url)
+        use_local_format = False
 
     if not content:
-        print(f"Failed to fetch data for {year}!")
+        print(f"Failed to get data for {year}!")
         return []
 
     try:
         print("Extracting race data...")
-        all_races = extract_dotd_data(content, year)
+
+        if use_local_format:
+            all_races = extract_dotd_data_from_local(content, year)
+        else:
+            all_races = extract_dotd_data(content, year)
 
         if not all_races:
             print(f"No race data found for {year}!")
@@ -137,7 +292,6 @@ def process_year(year, url):
             "year": year,
             "total_races": len(all_races),
             "last_updated": current_utc_time,
-            "source_url": url,
             "races": all_races,
         }
 

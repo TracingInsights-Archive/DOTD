@@ -1,0 +1,11 @@
+{
+  "race_name": "Austrian Grand Prix",
+  "year": 2019,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 74.0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "race_name": "Japanese Grand Prix",
+  "year": 2019,
+  "winner": "Valtteri Bottas",
+  "voting_results": [
+    {
+      "driver": "Valtteri Bottas",
+      "percentage": 21.0
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 8.0
+    }
+  ]
+}

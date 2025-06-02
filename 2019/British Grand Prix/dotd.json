@@ -1,0 +1,11 @@
+{
+  "race_name": "British Grand Prix",
+  "year": 2019,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 20.6
+    }
+  ]
+}

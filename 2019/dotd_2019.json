@@ -1,0 +1,243 @@
+{
+  "year": 2019,
+  "total_races": 16,
+  "last_updated": "2025-06-02T07:43:25.689580+00:00",
+  "races": [
+    {
+      "race_name": "Abu Dhabi Grand Prix",
+      "year": 2019,
+      "winner": "Nico Hulkenberg",
+      "voting_results": [
+        {
+          "driver": "Nico Hulkenberg",
+          "percentage": 26.4
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 15.1
+        },
+        {
+          "driver": "Robert Kubica",
+          "percentage": 14.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 9.5
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 8.8
+        }
+      ]
+    },
+    {
+      "race_name": "Brazilian Grand Prix",
+      "year": 2019,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 22.2
+        },
+        {
+          "driver": "Alex Albon",
+          "percentage": 13.8
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 7.1
+        }
+      ]
+    },
+    {
+      "race_name": "United States Grand Prix",
+      "year": 2019,
+      "winner": "Alex Albon",
+      "voting_results": [
+        {
+          "driver": "Alex Albon",
+          "percentage": 17.0
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 10.1
+        }
+      ]
+    },
+    {
+      "race_name": "Mexican Grand Prix",
+      "year": 2019,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 20.2
+        },
+        {
+          "driver": "Alex Albon",
+          "percentage": 8.5
+        }
+      ]
+    },
+    {
+      "race_name": "Japanese Grand Prix",
+      "year": 2019,
+      "winner": "Valtteri Bottas",
+      "voting_results": [
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 21.0
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 8.0
+        }
+      ]
+    },
+    {
+      "race_name": "Russian Grand Prix",
+      "year": 2019,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 22.0
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 9.3
+        }
+      ]
+    },
+    {
+      "race_name": "Singapore Grand Prix",
+      "year": 2019,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 21.2
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 8.0
+        }
+      ]
+    },
+    {
+      "race_name": "Italian Grand Prix",
+      "year": 2019,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 34.9
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 6.1
+        }
+      ]
+    },
+    {
+      "race_name": "Belgian Grand Prix",
+      "year": 2019,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 21.2
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 6.6
+        }
+      ]
+    },
+    {
+      "race_name": "Hungarian Grand Prix",
+      "year": 2019,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 26.2
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 5.2
+        }
+      ]
+    },
+    {
+      "race_name": "German Grand Prix",
+      "year": 2019,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 20.9
+        },
+        {
+          "driver": "Alexander Albon",
+          "percentage": 6.8
+        }
+      ]
+    },
+    {
+      "race_name": "British Grand Prix",
+      "year": 2019,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 20.6
+        }
+      ]
+    },
+    {
+      "race_name": "Austrian Grand Prix",
+      "year": 2019,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 74.0
+        }
+      ]
+    },
+    {
+      "race_name": "French Grand Prix",
+      "year": 2019,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 26.4
+        }
+      ]
+    },
+    {
+      "race_name": "Canadian Grand Prix",
+      "year": 2019,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 24.6
+        }
+      ]
+    },
+    {
+      "race_name": "Monaco Grand Prix",
+      "year": 2019,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 23.3
+        }
+      ]
+    }
+  ]
+}

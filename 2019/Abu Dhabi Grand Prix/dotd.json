@@ -1,0 +1,27 @@
+{
+  "race_name": "Abu Dhabi Grand Prix",
+  "year": 2019,
+  "winner": "Nico Hulkenberg",
+  "voting_results": [
+    {
+      "driver": "Nico Hulkenberg",
+      "percentage": 26.4
+    },
+    {
+      "driver": "Valtteri Bottas",
+      "percentage": 15.1
+    },
+    {
+      "driver": "Robert Kubica",
+      "percentage": 14.0
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 9.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 8.8
+    }
+  ]
+}

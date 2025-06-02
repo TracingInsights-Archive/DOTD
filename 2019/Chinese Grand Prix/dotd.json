@@ -1,0 +1,11 @@
+{
+  "race_name": "Chinese Grand Prix",
+  "year": 2019,
+  "winner": "Alexander Albon",
+  "voting_results": [
+    {
+      "driver": "Alexander Albon",
+      "percentage": 17.7
+    }
+  ]
+}

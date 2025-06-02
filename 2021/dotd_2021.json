@@ -1,0 +1,574 @@
+{
+  "year": 2021,
+  "total_races": 21,
+  "last_updated": "2025-06-02T07:43:25.675378+00:00",
+  "races": [
+    {
+      "race_name": "Abu Dhabi Grand Prix",
+      "year": 2021,
+      "winner": "Kimi Raikkonen",
+      "voting_results": [
+        {
+          "driver": "Kimi Raikkonen",
+          "percentage": 42.8
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 21.5
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 10.9
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 7.6
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 4.9
+        }
+      ]
+    },
+    {
+      "race_name": "Saudi Arabian Grand Prix",
+      "year": 2021,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 26.7
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 24.6
+        },
+        {
+          "driver": "Esteban Ocon",
+          "percentage": 12.9
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 6.6
+        },
+        {
+          "driver": "Kimi Raikkonen",
+          "percentage": 4.1
+        }
+      ]
+    },
+    {
+      "race_name": "Qatar Grand Prix",
+      "year": 2021,
+      "winner": "Fernando Alonso",
+      "voting_results": [
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 28.6
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 16.6
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 13.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.5
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 5.6
+        }
+      ]
+    },
+    {
+      "race_name": "São Paulo Grand Prix",
+      "year": 2021,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 36.8
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 21.6
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 6.4
+        },
+        {
+          "driver": "Nikita Mazepin",
+          "percentage": 5.3
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 3.4
+        }
+      ]
+    },
+    {
+      "race_name": "Mexico City Grand Prix",
+      "year": 2021,
+      "winner": "Sergio Perez",
+      "voting_results": [
+        {
+          "driver": "Sergio Perez",
+          "percentage": 36.9
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.5
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 7.4
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 6.5
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 5.9
+        }
+      ]
+    },
+    {
+      "race_name": "United States Grand Prix",
+      "year": 2021,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 22.7
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 17.1
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 8.7
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 8.2
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 7.2
+        }
+      ]
+    },
+    {
+      "race_name": "Turkish Grand Prix",
+      "year": 2021,
+      "winner": "Carlos Sainz",
+      "voting_results": [
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 25.7
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 14.8
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 10.6
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 10.5
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 10.3
+        }
+      ]
+    },
+    {
+      "race_name": "Russian Grand Prix",
+      "year": 2021,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 33.9
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.9
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 9.9
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 6.5
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 5.9
+        }
+      ]
+    },
+    {
+      "race_name": "Italian Grand Prix",
+      "year": 2021,
+      "winner": "Daniel Ricciardo",
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 34.5
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 28.6
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 8.5
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 5.1
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 4.6
+        }
+      ]
+    },
+    {
+      "race_name": "Dutch Grand Prix",
+      "year": 2021,
+      "winner": "Sergio Perez",
+      "voting_results": [
+        {
+          "driver": "Sergio Perez",
+          "percentage": 27.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 19.4
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 8.5
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 8.0
+        },
+        {
+          "driver": "Robert Kubica",
+          "percentage": 7.8
+        }
+      ]
+    },
+    {
+      "race_name": "Hungarian Grand Prix",
+      "year": 2021,
+      "winner": "Fernando Alonso",
+      "voting_results": [
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 28.2
+        },
+        {
+          "driver": "Esteban Ocon",
+          "percentage": 17.8
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 12.6
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 9.7
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 5.0
+        }
+      ]
+    },
+    {
+      "race_name": "British Grand Prix",
+      "year": 2021,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 34.5
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 13.4
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 12.9
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 6.7
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 6.0
+        }
+      ]
+    },
+    {
+      "race_name": "Austrian Grand Prix",
+      "year": 2021,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 31.6
+        },
+        {
+          "driver": "Kimi Raikkonen",
+          "percentage": 15.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 9.2
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 8.5
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 7.7
+        }
+      ]
+    },
+    {
+      "race_name": "Styrian Grand Prix",
+      "year": 2021,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 28.4
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 13.1
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 12.4
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 7.8
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 7.2
+        }
+      ]
+    },
+    {
+      "race_name": "French Grand Prix",
+      "year": 2021,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 22.9
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 19.0
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 14.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 8.4
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 6.9
+        }
+      ]
+    },
+    {
+      "race_name": "Azerbaijan Grand Prix",
+      "year": 2021,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 41.9
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 18.1
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 9.1
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 4.9
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 3.5
+        }
+      ]
+    },
+    {
+      "race_name": "Monaco Grand Prix",
+      "year": 2021,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 23.6
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 17.3
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 14.0
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 12.1
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 9.0
+        }
+      ]
+    },
+    {
+      "race_name": "Spanish Grand Prix",
+      "year": 2021,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 22.6
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 19.7
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 12.3
+        },
+        {
+          "driver": "Nikita Mazepin",
+          "percentage": 7.3
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 6.5
+        }
+      ]
+    },
+    {
+      "race_name": "Portuguese Grand Prix",
+      "year": 2021,
+      "winner": "1 Sergio Perez",
+      "voting_results": [
+        {
+          "driver": "1 Sergio Perez",
+          "percentage": 15.4
+        },
+        {
+          "driver": "2 Lewis Hamilton",
+          "percentage": 12.2
+        },
+        {
+          "driver": "3 Max Verstappen",
+          "percentage": 10.6
+        },
+        {
+          "driver": "4 Daniel Ricciardo",
+          "percentage": 10.3
+        },
+        {
+          "driver": "5 Fernando Alonso",
+          "percentage": 10.0
+        }
+      ]
+    },
+    {
+      "race_name": "Emilia Romagna Grand Prix",
+      "year": 2021,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 32.3
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 15.5
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 13.9
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 7.2
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 4.9
+        }
+      ]
+    },
+    {
+      "race_name": "Bahrain Grand Prix",
+      "year": 2021,
+      "winner": "Sergio Perez",
+      "voting_results": [
+        {
+          "driver": "Sergio Perez",
+          "percentage": 27.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 16.8
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 13.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 7.5
+        },
+        {
+          "driver": "Yuki Tsunoda",
+          "percentage": 7.0
+        }
+      ]
+    }
+  ]
+}

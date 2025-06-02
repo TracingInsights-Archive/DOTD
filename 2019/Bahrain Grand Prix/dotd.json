@@ -1,0 +1,23 @@
+{
+  "race_name": "Bahrain Grand Prix",
+  "year": 2019,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 50.23
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 8.01
+    },
+    {
+      "driver": "Nico Hulkenberg",
+      "percentage": 6.8
+    },
+    {
+      "driver": "Kimi Räikkönen",
+      "percentage": 6.17
+    }
+  ]
+}

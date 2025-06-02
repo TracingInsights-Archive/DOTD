@@ -3,11 +3,14 @@
     2025,
     2024,
     2023,
-    2022
+    2022,
+    2021,
+    2020,
+    2019
   ],
-  "total_years": 4,
-  "total_races": 77,
-  "last_updated": "2025-06-02T07:26:45.659186+00:00",
+  "total_years": 7,
+  "total_races": 129,
+  "last_updated": "2025-06-02T07:43:25.690763+00:00",
   "data_by_year": {
     "2025": {
       "total_races": 9,
@@ -334,6 +337,229 @@
         {
           "race_name": "Bahrain Grand Prix",
           "winner": "Charles Leclerc"
+        }
+      ]
+    },
+    "2021": {
+      "total_races": 21,
+      "races": [
+        {
+          "race_name": "Abu Dhabi Grand Prix",
+          "winner": "Kimi Raikkonen"
+        },
+        {
+          "race_name": "Saudi Arabian Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Qatar Grand Prix",
+          "winner": "Fernando Alonso"
+        },
+        {
+          "race_name": "São Paulo Grand Prix",
+          "winner": "Lewis Hamilton"
+        },
+        {
+          "race_name": "Mexico City Grand Prix",
+          "winner": "Sergio Perez"
+        },
+        {
+          "race_name": "United States Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Turkish Grand Prix",
+          "winner": "Carlos Sainz"
+        },
+        {
+          "race_name": "Russian Grand Prix",
+          "winner": "Lando Norris"
+        },
+        {
+          "race_name": "Italian Grand Prix",
+          "winner": "Daniel Ricciardo"
+        },
+        {
+          "race_name": "Dutch Grand Prix",
+          "winner": "Sergio Perez"
+        },
+        {
+          "race_name": "Hungarian Grand Prix",
+          "winner": "Fernando Alonso"
+        },
+        {
+          "race_name": "British Grand Prix",
+          "winner": "Charles Leclerc"
+        },
+        {
+          "race_name": "Austrian Grand Prix",
+          "winner": "Lando Norris"
+        },
+        {
+          "race_name": "Styrian Grand Prix",
+          "winner": "Charles Leclerc"
+        },
+        {
+          "race_name": "French Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Azerbaijan Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Monaco Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Spanish Grand Prix",
+          "winner": "Lewis Hamilton"
+        },
+        {
+          "race_name": "Portuguese Grand Prix",
+          "winner": "1 Sergio Perez"
+        },
+        {
+          "race_name": "Emilia Romagna Grand Prix",
+          "winner": "Lando Norris"
+        },
+        {
+          "race_name": "Bahrain Grand Prix",
+          "winner": "Sergio Perez"
+        }
+      ]
+    },
+    "2020": {
+      "total_races": 15,
+      "races": [
+        {
+          "race_name": "Abu Dhabi Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Sakhir Grand Prix",
+          "winner": "George Russell"
+        },
+        {
+          "race_name": "Bahrain Grand Prix",
+          "winner": "Romain Grosjean"
+        },
+        {
+          "race_name": "Turkish Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Emilia Romagna Grand Prix",
+          "winner": "Kimi Raikkonen"
+        },
+        {
+          "race_name": "Portuguese Grand Prix",
+          "winner": "Sergio Perez"
+        },
+        {
+          "race_name": "Eifel Grand Prix",
+          "winner": "Nico Hulkenberg"
+        },
+        {
+          "race_name": "Russian Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Tuscan Grand Prix",
+          "winner": "Daniel Ricciardo"
+        },
+        {
+          "race_name": "Italian Grand Prix",
+          "winner": "Pierre Gasly"
+        },
+        {
+          "race_name": "Belgian Grand Prix",
+          "winner": "Pierre Gasly"
+        },
+        {
+          "race_name": "Spanish Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Hungarian Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Styrian Grand Prix",
+          "winner": "Sergio Perez"
+        },
+        {
+          "race_name": "Austrian Grand Prix",
+          "winner": "Alex Albon"
+        }
+      ]
+    },
+    "2019": {
+      "total_races": 16,
+      "races": [
+        {
+          "race_name": "Abu Dhabi Grand Prix",
+          "winner": "Nico Hulkenberg"
+        },
+        {
+          "race_name": "Brazilian Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "United States Grand Prix",
+          "winner": "Alex Albon"
+        },
+        {
+          "race_name": "Mexican Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Japanese Grand Prix",
+          "winner": "Valtteri Bottas"
+        },
+        {
+          "race_name": "Russian Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Singapore Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Italian Grand Prix",
+          "winner": "Charles Leclerc"
+        },
+        {
+          "race_name": "Belgian Grand Prix",
+          "winner": "Lando Norris"
+        },
+        {
+          "race_name": "Hungarian Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "German Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "British Grand Prix",
+          "winner": "Charles Leclerc"
+        },
+        {
+          "race_name": "Austrian Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "French Grand Prix",
+          "winner": "Lando Norris"
+        },
+        {
+          "race_name": "Canadian Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Monaco Grand Prix",
+          "winner": "Max Verstappen"
         }
       ]
     }

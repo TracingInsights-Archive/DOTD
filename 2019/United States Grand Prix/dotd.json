@@ -1,0 +1,15 @@
+{
+  "race_name": "United States Grand Prix",
+  "year": 2019,
+  "winner": "Alex Albon",
+  "voting_results": [
+    {
+      "driver": "Alex Albon",
+      "percentage": 17.0
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 10.1
+    }
+  ]
+}

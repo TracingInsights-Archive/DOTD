@@ -1,0 +1,412 @@
+{
+  "year": 2020,
+  "total_races": 15,
+  "last_updated": "2025-06-02T07:43:25.682168+00:00",
+  "races": [
+    {
+      "race_name": "Abu Dhabi Grand Prix",
+      "year": 2020,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 21.2
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 13.8
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 11.3
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 7.0
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 6.1
+        }
+      ]
+    },
+    {
+      "race_name": "Sakhir Grand Prix",
+      "year": 2020,
+      "winner": "George Russell",
+      "voting_results": [
+        {
+          "driver": "George Russell",
+          "percentage": 48.8
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 23.5
+        },
+        {
+          "driver": "Pietro Fittipaldi",
+          "percentage": 5.8
+        },
+        {
+          "driver": "Esteban Ocon",
+          "percentage": 3.4
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 2.3
+        }
+      ]
+    },
+    {
+      "race_name": "Bahrain Grand Prix",
+      "year": 2020,
+      "winner": "Romain Grosjean",
+      "voting_results": [
+        {
+          "driver": "Romain Grosjean",
+          "percentage": 36.8
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 12.3
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 11.6
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 6.9
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 6.0
+        }
+      ]
+    },
+    {
+      "race_name": "Turkish Grand Prix",
+      "year": 2020,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 25.8
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 20.3
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 16.7
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 8.2
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 6.1
+        }
+      ]
+    },
+    {
+      "race_name": "Emilia Romagna Grand Prix",
+      "year": 2020,
+      "winner": "Kimi Raikkonen",
+      "voting_results": [
+        {
+          "driver": "Kimi Raikkonen",
+          "percentage": 18.6
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.9
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 10.6
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 10.5
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "percentage": 7.3
+        }
+      ]
+    },
+    {
+      "race_name": "Portuguese Grand Prix",
+      "year": 2020,
+      "winner": "Sergio Perez",
+      "voting_results": [
+        {
+          "driver": "Sergio Perez",
+          "percentage": 18.2
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 13.6
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 11.5
+        },
+        {
+          "driver": "Kimi Raikkonen",
+          "percentage": 10.3
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 9.8
+        }
+      ]
+    },
+    {
+      "race_name": "Eifel Grand Prix",
+      "year": 2020,
+      "winner": "Nico Hulkenberg",
+      "voting_results": [
+        {
+          "driver": "Nico Hulkenberg",
+          "percentage": 34.7
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 17.6
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 8.4
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 7.4
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 5.6
+        }
+      ]
+    },
+    {
+      "race_name": "Russian Grand Prix",
+      "year": 2020,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.7
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 11.3
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 10.5
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 10.0
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 9.0
+        }
+      ]
+    },
+    {
+      "race_name": "Tuscan Grand Prix",
+      "year": 2020,
+      "winner": "Daniel Ricciardo",
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 23.9
+        },
+        {
+          "driver": "Alex Albon",
+          "percentage": 18.6
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 13.2
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 8.9
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 5.6
+        }
+      ]
+    },
+    {
+      "race_name": "Italian Grand Prix",
+      "year": 2020,
+      "winner": "Pierre Gasly",
+      "voting_results": [
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 28.0
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 24.5
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 12.8
+        },
+        {
+          "driver": "Kimi Raikkonen",
+          "percentage": 5.5
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 5.3
+        }
+      ]
+    },
+    {
+      "race_name": "Belgian Grand Prix",
+      "year": 2020,
+      "winner": "Pierre Gasly",
+      "voting_results": [
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 18.9
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 18.7
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 9.5
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 7.6
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 7.3
+        }
+      ]
+    },
+    {
+      "race_name": "Spanish Grand Prix",
+      "year": 2020,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 29.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 15.2
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 12.3
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 6.2
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 5.0
+        }
+      ]
+    },
+    {
+      "race_name": "Hungarian Grand Prix",
+      "year": 2020,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 18.1
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 14.9
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 12.8
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 8.2
+        },
+        {
+          "driver": "Lance Stroll",
+          "percentage": 8.1
+        }
+      ]
+    },
+    {
+      "race_name": "Styrian Grand Prix",
+      "year": 2020,
+      "winner": "Sergio Perez",
+      "voting_results": [
+        {
+          "driver": "Sergio Perez",
+          "percentage": 34.7
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 10.9
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 10.7
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 6.6
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 5.6
+        }
+      ]
+    },
+    {
+      "race_name": "Austrian Grand Prix",
+      "year": 2020,
+      "winner": "Alex Albon",
+      "voting_results": [
+        {
+          "driver": "Alex Albon",
+          "percentage": 15.0
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 13.9
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 12.7
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 12.2
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 11.6
+        }
+      ]
+    }
+  ]
+}

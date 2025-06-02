@@ -1,0 +1,11 @@
+{
+  "race_name": "French Grand Prix",
+  "year": 2019,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 26.4
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "race_name": "Canadian Grand Prix",
+  "year": 2019,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 24.6
+    }
+  ]
+}
