@@ -1,0 +1,398 @@
+{
+  "year": 2018,
+  "total_races": 21,
+  "last_updated": "2025-06-02T09:40:41.393112+00:00",
+  "races": [
+    {
+      "race_name": "Abu Dhabi Grand Prix",
+      "year": 2018,
+      "winner": "Fernando Alonso",
+      "voting_results": [
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 22.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 17.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 16.0
+        }
+      ]
+    },
+    {
+      "race_name": "Braziian Grand Prix",
+      "year": 2018,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 37.0
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 17.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 10.0
+        }
+      ]
+    },
+    {
+      "race_name": "Mexican Grand Prix",
+      "year": 2018,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 28.0
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 21.0
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 19.0
+        }
+      ]
+    },
+    {
+      "race_name": "United States Grand Prix",
+      "year": 2018,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 34.0
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "percentage": 31.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 12.0
+        }
+      ]
+    },
+    {
+      "race_name": "Japanese Grand Prix",
+      "year": 2018,
+      "winner": "Daniel Ricciardo",
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 32.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 18.0
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 15.0
+        }
+      ]
+    },
+    {
+      "race_name": "Russian Grand Prix",
+      "year": 2018,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 45.0
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 12.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 11.0
+        }
+      ]
+    },
+    {
+      "race_name": "Singapore Grand Prix",
+      "year": 2018,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 19.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 16.0
+        },
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 16.0
+        }
+      ]
+    },
+    {
+      "race_name": "Italian Grand Prix",
+      "year": 2018,
+      "winner": "Kimi R\u00e4ikk\u00f6nen",
+      "voting_results": [
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "percentage": 25.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 24.0
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 17.0
+        }
+      ]
+    },
+    {
+      "race_name": "Belgian Grand Prix",
+      "year": 2018,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 22.0
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 19.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 17.0
+        }
+      ]
+    },
+    {
+      "race_name": "Hunarian Grand Prix",
+      "year": 2018,
+      "winner": "Daniel Ricciardo",
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 23.0
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 18.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 13.0
+        }
+      ]
+    },
+    {
+      "race_name": "German Grand Prix",
+      "year": 2018,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 33.0
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "percentage": 14.0
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 13.0
+        }
+      ]
+    },
+    {
+      "race_name": "British Grand Prix",
+      "year": 2018,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 28.0
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 23.0
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "percentage": 17.0
+        }
+      ]
+    },
+    {
+      "race_name": "Austrian Grand Prix",
+      "year": 2018,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 27.0
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "percentage": 16.0
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 15.0
+        }
+      ]
+    },
+    {
+      "race_name": "French Grand Prix",
+      "year": 2018,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 18.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 17.0
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "percentage": 15.0
+        }
+      ]
+    },
+    {
+      "race_name": "Canadian Grand Prix",
+      "year": 2018,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 25.0
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 14.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 12.0
+        }
+      ]
+    },
+    {
+      "race_name": "Monaco Grand Prix",
+      "year": 2018,
+      "winner": "Daniel Ricciardo",
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 29.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 22.0
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 9.0
+        }
+      ]
+    },
+    {
+      "race_name": "Spanish Grand Prix",
+      "year": 2018,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 15.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 12.0
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 12.0
+        }
+      ]
+    },
+    {
+      "race_name": "Azerbaijan Grand Prix",
+      "year": 2018,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 16.0
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 11.0
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 10.0
+        }
+      ]
+    },
+    {
+      "race_name": "Chinese Grand Prix",
+      "year": 2018,
+      "winner": "Daniel Ricciardo",
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 86.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 5.0
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "percentage": 3.0
+        }
+      ]
+    },
+    {
+      "race_name": "Bahrain Grand Prix",
+      "year": 2018,
+      "winner": "Pierre Gasly",
+      "voting_results": [
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 89.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 4.0
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 3.0
+        }
+      ]
+    },
+    {
+      "race_name": "Australian Grand Prix",
+      "year": 2018,
+      "winner": "Fernando Alonso",
+      "voting_results": [
+        {
+          "driver": "Fernando Alonso",
+          "percentage": null
+        }
+      ]
+    }
+  ]
+}
