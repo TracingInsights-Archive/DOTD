@@ -127,13 +127,16 @@ def process_year(year, url):
             print(f"No race data found for {year}!")
             return []
 
+        # Get current UTC time for last_updated
+        current_utc_time = datetime.now(timezone.utc).isoformat()
+
         # Save summary file with all races for the year
         summary_file = Path(str(year)) / f"dotd_{year}.json"
 
         summary_data = {
             "year": year,
             "total_races": len(all_races),
-            "last_updated": "2025-01-27",
+            "last_updated": current_utc_time,
             "source_url": url,
             "races": all_races,
         }
@@ -175,15 +178,21 @@ def main():
 
     # Create overall summary
     if all_years_data:
+        # Get current UTC time for last_updated
+        current_utc_time = datetime.now(timezone.utc).isoformat()
+
         overall_summary = {
             "years_processed": list(all_years_data.keys()),
             "total_years": len(all_years_data),
             "total_races": sum(len(races) for races in all_years_data.values()),
-            "last_updated": "2025-01-27",
+            "last_updated": current_utc_time,
             "data_by_year": {
                 year: {
                     "total_races": len(races),
-                    "races": [race["race_name"] for race in races],
+                    "races": [
+                        {"race_name": race["race_name"], "winner": race["winner"]}
+                        for race in races
+                    ],
                 }
                 for year, races in all_years_data.items()
             },
