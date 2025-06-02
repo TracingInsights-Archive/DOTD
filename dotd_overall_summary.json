@@ -1,0 +1,110 @@
+{
+  "years_processed": [
+    2025,
+    2024,
+    2023,
+    2022
+  ],
+  "total_years": 4,
+  "total_races": 77,
+  "last_updated": "2025-01-27",
+  "data_by_year": {
+    "2025": {
+      "total_races": 9,
+      "races": [
+        "Spanish Grand Prix",
+        "Monaco Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Miami Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Bahrain Grand Prix",
+        "Japanese Grand Prix",
+        "Chinese Grand Prix",
+        "Australian Grand Prix"
+      ]
+    },
+    "2024": {
+      "total_races": 24,
+      "races": [
+        "Abu Dhabi Grand Prix",
+        "Qatar Grand Prix",
+        "Las Vegas Grand Prix",
+        "São Paulo Grand Prix",
+        "Mexico City Grand Prix",
+        "United States Grand Prix",
+        "Singapore Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Italian Grand Prix",
+        "Dutch Grand Prix",
+        "Belgian Grand Prix",
+        "Hungarian Grand Prix",
+        "British Grand Prix",
+        "Austrian Grand Prix",
+        "Spanish Grand Prix",
+        "Canadian Grand Prix",
+        "Monaco Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Miami Grand Prix",
+        "Chinese Grand Prix",
+        "Japanese Grand Prix",
+        "Australian Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Bahrain Grand Prix"
+      ]
+    },
+    "2023": {
+      "total_races": 22,
+      "races": [
+        "Abu Dhabi Grand Prix",
+        "Las Vegas Grand Prix",
+        "São Paulo Grand Prix",
+        "Mexico City Grand Prix",
+        "United States Grand Prix",
+        "Qatar Grand Prix",
+        "Japanese Grand Prix",
+        "Singapore Grand Prix",
+        "Italian Grand Prix",
+        "Dutch Grand Prix",
+        "Belgian Grand Prix",
+        "Hungarian Grand Prix",
+        "British Grand Prix",
+        "Austrian Grand Prix",
+        "Canadian Grand Prix",
+        "Spanish Grand Prix",
+        "Monaco Grand Prix",
+        "Miami Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Australian Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Bahrain Grand Prix"
+      ]
+    },
+    "2022": {
+      "total_races": 22,
+      "races": [
+        "Abu Dhabi Grand Prix",
+        "São Paulo Grand Prix",
+        "Mexico City Grand Prix",
+        "United States Grand Prix",
+        "Japanese Grand Prix",
+        "Singapore Grand Prix",
+        "Italian Grand Prix",
+        "Dutch Grand Prix",
+        "Belgian Grand Prix",
+        "Hungarian Grand Prix",
+        "French Grand Prix",
+        "Austrian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Monaco Grand Prix",
+        "Spanish Grand Prix",
+        "Miami Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Australian Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Bahrain Grand Prix"
+      ]
+    }
+  }
+}

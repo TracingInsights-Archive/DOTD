@@ -1,0 +1,27 @@
+{
+  "race_name": "Australian Grand Prix",
+  "year": 2024,
+  "winner": "Carlos Sainz",
+  "voting_results": [
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 38.4
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 11.6
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 10.2
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 8.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 5.5
+    }
+  ]
+}

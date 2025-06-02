@@ -1,0 +1,27 @@
+{
+  "race_name": "Miami Grand Prix",
+  "year": 2022,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 18.0
+    },
+    {
+      "driver": "Mick Schumacher",
+      "percentage": 14.5
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 12.7
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 8.6
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 7.6
+    }
+  ]
+}

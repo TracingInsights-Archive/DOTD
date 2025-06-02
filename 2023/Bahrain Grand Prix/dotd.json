@@ -1,0 +1,27 @@
+{
+  "race_name": "Bahrain Grand Prix",
+  "year": 2023,
+  "winner": "Fernando Alonso",
+  "voting_results": [
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 53.3
+    },
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 6.5
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 6.3
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 5.5
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 4.4
+    }
+  ]
+}

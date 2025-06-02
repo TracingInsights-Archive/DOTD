@@ -1,0 +1,27 @@
+{
+  "race_name": "Emilia Romagna Grand Prix",
+  "year": 2025,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 19.0
+    },
+    {
+      "driver": "Alex Albon",
+      "percentage": 14.9
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 11.0
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 9.5
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 9.3
+    }
+  ]
+}

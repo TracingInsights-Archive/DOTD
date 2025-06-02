@@ -1,0 +1,27 @@
+{
+  "race_name": "Qatar Grand Prix",
+  "year": 2024,
+  "winner": "Zhou Guanyu",
+  "voting_results": [
+    {
+      "driver": "Zhou Guanyu",
+      "percentage": 29.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 17.5
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 9.8
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 8.6
+    },
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 7.4
+    }
+  ]
+}

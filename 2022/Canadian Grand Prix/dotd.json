@@ -1,0 +1,27 @@
+{
+  "race_name": "Canadian Grand Prix",
+  "year": 2022,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 21.6
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 11.9
+    },
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 10.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 10.2
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 6.0
+    }
+  ]
+}

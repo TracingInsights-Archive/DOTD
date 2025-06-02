@@ -1,0 +1,27 @@
+{
+  "race_name": "Monaco Grand Prix",
+  "year": 2023,
+  "winner": "Esteban Ocon",
+  "voting_results": [
+    {
+      "driver": "Esteban Ocon",
+      "percentage": 23.5
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 22.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 16.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 7.5
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 6.2
+    }
+  ]
+}

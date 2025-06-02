@@ -1,0 +1,27 @@
+{
+  "race_name": "Austrian Grand Prix",
+  "year": 2022,
+  "winner": "Mick Schumacher",
+  "voting_results": [
+    {
+      "driver": "Mick Schumacher",
+      "percentage": 24.5
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 15.3
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 10.1
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 9.6
+    },
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 8.0
+    }
+  ]
+}

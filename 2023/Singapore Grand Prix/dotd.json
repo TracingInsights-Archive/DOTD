@@ -1,0 +1,27 @@
+{
+  "race_name": "Singapore Grand Prix",
+  "year": 2023,
+  "winner": "Carlos Sainz",
+  "voting_results": [
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 21.2
+    },
+    {
+      "driver": "Liam Lawson",
+      "percentage": 14.4
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 13.6
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 9.8
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 7.6
+    }
+  ]
+}

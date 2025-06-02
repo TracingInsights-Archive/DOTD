@@ -1,0 +1,27 @@
+{
+  "race_name": "Miami Grand Prix",
+  "year": 2024,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 41.1
+    },
+    {
+      "driver": "Valtteri Bottas",
+      "percentage": 14.6
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 8.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 5.9
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 4.6
+    }
+  ]
+}

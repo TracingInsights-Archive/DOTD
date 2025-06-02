@@ -1,0 +1,27 @@
+{
+  "race_name": "Azerbaijan Grand Prix",
+  "year": 2024,
+  "winner": "Oscar Piastri",
+  "voting_results": [
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 29.6
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 14.2
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 12.3
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 9.3
+    },
+    {
+      "driver": "Franco Colapinto",
+      "percentage": 7.8
+    }
+  ]
+}

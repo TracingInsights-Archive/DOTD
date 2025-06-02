@@ -1,0 +1,27 @@
+{
+  "race_name": "Dutch Grand Prix",
+  "year": 2024,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 24.6
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 17.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 14.0
+    },
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 8.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 7.8
+    }
+  ]
+}

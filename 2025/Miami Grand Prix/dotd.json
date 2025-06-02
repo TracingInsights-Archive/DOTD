@@ -1,0 +1,27 @@
+{
+  "race_name": "Miami Grand Prix",
+  "year": 2025,
+  "winner": "Oscar Piastri",
+  "voting_results": [
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 20.7
+    },
+    {
+      "driver": "Alex Albon",
+      "percentage": 19.0
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 14.2
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 9.3
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 8.7
+    }
+  ]
+}

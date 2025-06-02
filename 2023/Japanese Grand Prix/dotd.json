@@ -1,0 +1,27 @@
+{
+  "race_name": "Japanese Grand Prix",
+  "year": 2023,
+  "winner": "Oscar Piastri",
+  "voting_results": [
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 28.2
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 15.8
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 14.4
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 7.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 6.8
+    }
+  ]
+}

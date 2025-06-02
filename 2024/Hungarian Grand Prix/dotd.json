@@ -1,0 +1,27 @@
+{
+  "race_name": "Hungarian Grand Prix",
+  "year": 2024,
+  "winner": "Oscar Piastri",
+  "voting_results": [
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 34.9
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 13.9
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 13.8
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 8.2
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 6.7
+    }
+  ]
+}

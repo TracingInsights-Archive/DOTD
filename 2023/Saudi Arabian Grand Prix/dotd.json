@@ -1,0 +1,23 @@
+{
+  "race_name": "Saudi Arabian Grand Prix",
+  "year": 2023,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 26.3
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 19.8
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 14.6
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 7.2
+    }
+  ]
+}

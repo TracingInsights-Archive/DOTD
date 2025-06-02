@@ -1,0 +1,27 @@
+{
+  "race_name": "Mexico City Grand Prix",
+  "year": 2024,
+  "winner": "Carlos Sainz",
+  "voting_results": [
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 27.2
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 12.3
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 9.2
+    },
+    {
+      "driver": "Franco Colapinto",
+      "percentage": 8.1
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 7.4
+    }
+  ]
+}

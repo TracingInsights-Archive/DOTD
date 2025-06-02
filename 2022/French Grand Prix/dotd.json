@@ -1,0 +1,27 @@
+{
+  "race_name": "French Grand Prix",
+  "year": 2022,
+  "winner": "Carlos Sainz",
+  "voting_results": [
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 40.4
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 13.0
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 10.7
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 6.4
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 5.4
+    }
+  ]
+}

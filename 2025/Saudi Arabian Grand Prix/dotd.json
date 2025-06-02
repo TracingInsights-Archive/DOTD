@@ -1,0 +1,27 @@
+{
+  "race_name": "Saudi Arabian Grand Prix",
+  "year": 2025,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 23.3
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 16.3
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 15.1
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 13.8
+    },
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 5.5
+    }
+  ]
+}

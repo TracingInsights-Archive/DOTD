@@ -1,0 +1,27 @@
+{
+  "race_name": "Canadian Grand Prix",
+  "year": 2023,
+  "winner": "Alexander Albon",
+  "voting_results": [
+    {
+      "driver": "Alexander Albon",
+      "percentage": 28.7
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 16.4
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 16.3
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 7.4
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 7.3
+    }
+  ]
+}

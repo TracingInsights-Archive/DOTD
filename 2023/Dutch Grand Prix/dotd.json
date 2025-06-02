@@ -1,0 +1,27 @@
+{
+  "race_name": "Dutch Grand Prix",
+  "year": 2023,
+  "winner": "Fernando Alonso",
+  "voting_results": [
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 20.9
+    },
+    {
+      "driver": "Alex Albon",
+      "percentage": 14.0
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 10.9
+    },
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 9.1
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 9.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "race_name": "Japanese Grand Prix",
+  "year": 2024,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 23.8
+    },
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 17.7
+    },
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 14.6
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 8.3
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 8.0
+    }
+  ]
+}

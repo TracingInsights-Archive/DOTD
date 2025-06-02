@@ -1,0 +1,251 @@
+{
+  "year": 2025,
+  "total_races": 9,
+  "last_updated": "2025-01-27",
+  "source_url": "https://www.formula1.com/en/latest/article/driver-of-the-day-2025.1vNM15UysUT1r3A2OMaFqH",
+  "races": [
+    {
+      "race_name": "Spanish Grand Prix",
+      "year": 2025,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 19.7
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 14.5
+        },
+        {
+          "driver": "Nico Hulkenberg",
+          "percentage": 10.6
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 9.6
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 9.3
+        }
+      ]
+    },
+    {
+      "race_name": "Monaco Grand Prix",
+      "year": 2025,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 20.1
+        },
+        {
+          "driver": "Isack Hadjar",
+          "percentage": 16.8
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 14.6
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 7.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 6.2
+        }
+      ]
+    },
+    {
+      "race_name": "Emilia Romagna Grand Prix",
+      "year": 2025,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 19.0
+        },
+        {
+          "driver": "Alex Albon",
+          "percentage": 14.9
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 11.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 9.5
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 9.3
+        }
+      ]
+    },
+    {
+      "race_name": "Miami Grand Prix",
+      "year": 2025,
+      "winner": "Oscar Piastri",
+      "voting_results": [
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 20.7
+        },
+        {
+          "driver": "Alex Albon",
+          "percentage": 19.0
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 14.2
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 9.3
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 8.7
+        }
+      ]
+    },
+    {
+      "race_name": "Saudi Arabian Grand Prix",
+      "year": 2025,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 23.3
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 16.3
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 15.1
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 13.8
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 5.5
+        }
+      ]
+    },
+    {
+      "race_name": "Bahrain Grand Prix",
+      "year": 2025,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 29.6
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 14.1
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 7.8
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 6.7
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 6.5
+        }
+      ]
+    },
+    {
+      "race_name": "Japanese Grand Prix",
+      "year": 2025,
+      "winner": "Yuki Tsunoda",
+      "voting_results": [
+        {
+          "driver": "Yuki Tsunoda",
+          "percentage": 23.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 19.7
+        },
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 13.6
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 7.9
+        },
+        {
+          "driver": "Isack Hadjar",
+          "percentage": 7.0
+        }
+      ]
+    },
+    {
+      "race_name": "Chinese Grand Prix",
+      "year": 2025,
+      "winner": "Kimi Antonelli",
+      "voting_results": [
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 20.7
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 15.6
+        },
+        {
+          "driver": "Oliver Bearman",
+          "percentage": 12.9
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 8.4
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 6.5
+        }
+      ]
+    },
+    {
+      "race_name": "Australian Grand Prix",
+      "year": 2025,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 20.7
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 17.2
+        },
+        {
+          "driver": "Alex Albon",
+          "percentage": 15.9
+        },
+        {
+          "driver": "Yuki Tsunoda",
+          "percentage": 11.3
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 8.3
+        }
+      ]
+    }
+  ]
+}

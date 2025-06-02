@@ -1,0 +1,27 @@
+{
+  "race_name": "Monaco Grand Prix",
+  "year": 2025,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 20.1
+    },
+    {
+      "driver": "Isack Hadjar",
+      "percentage": 16.8
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 14.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 7.0
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 6.2
+    }
+  ]
+}

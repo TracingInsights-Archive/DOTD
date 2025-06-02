@@ -1,0 +1,27 @@
+{
+  "race_name": "Canadian Grand Prix",
+  "year": 2024,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 24.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 11.8
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 9.5
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 9.0
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 6.6
+    }
+  ]
+}

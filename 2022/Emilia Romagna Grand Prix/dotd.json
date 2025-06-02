@@ -1,0 +1,27 @@
+{
+  "race_name": "Emilia Romagna Grand Prix",
+  "year": 2022,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 14.7
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 11.5
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 11.0
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 9.3
+    },
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 8.7
+    }
+  ]
+}

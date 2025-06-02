@@ -1,0 +1,27 @@
+{
+  "race_name": "British Grand Prix",
+  "year": 2023,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 45.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 12.1
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 10.8
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 8.1
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 5.1
+    }
+  ]
+}

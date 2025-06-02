@@ -1,0 +1,27 @@
+{
+  "race_name": "Australian Grand Prix",
+  "year": 2022,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 19.7
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 14.8
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 9.4
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 9.3
+    },
+    {
+      "driver": "Alex Albon",
+      "percentage": 8.2
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "race_name": "Qatar Grand Prix",
+  "year": 2023,
+  "winner": "Oscar Piastri",
+  "voting_results": [
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 27.9
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 17.3
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 16.4
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 11.4
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 4.6
+    }
+  ]
+}

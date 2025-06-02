@@ -1,0 +1,27 @@
+{
+  "race_name": "Belgian Grand Prix",
+  "year": 2024,
+  "winner": "Lewis Hamilton",
+  "voting_results": [
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 26.1
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 14.9
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 10.7
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 9.4
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 7.1
+    }
+  ]
+}

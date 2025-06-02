@@ -1,0 +1,27 @@
+{
+  "race_name": "Saudi Arabian Grand Prix",
+  "year": 2022,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 26.8
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 14.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 10.1
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 9.5
+    },
+    {
+      "driver": "Kevin Magnussen",
+      "percentage": 7.5
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "race_name": "Bahrain Grand Prix",
+  "year": 2022,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 28.3
+    },
+    {
+      "driver": "Kevin Magnussen",
+      "percentage": 22.5
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 9.0
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 5.1
+    },
+    {
+      "driver": "Zhou Guanyu",
+      "percentage": 5.0
+    }
+  ]
+}

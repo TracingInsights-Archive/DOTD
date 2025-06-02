@@ -1,0 +1,27 @@
+{
+  "race_name": "Bahrain Grand Prix",
+  "year": 2024,
+  "winner": "Carlos Sainz",
+  "voting_results": [
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 31.4
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 13.3
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 11.4
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 8.0
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 5.2
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "year": 2022,
+  "total_races": 22,
+  "last_updated": "2025-01-27",
+  "source_url": "https://www.formula1.com/en/latest/article/driver-of-the-day-2022.6pXweJZLe1l3puCiid9aj3",
+  "races": [
+    {
+      "race_name": "Abu Dhabi Grand Prix",
+      "year": 2022,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 56.6
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 9.1
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 6.5
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 5.5
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 4.8
+        }
+      ]
+    },
+    {
+      "race_name": "São Paulo Grand Prix",
+      "year": 2022,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 17.1
+        },
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 16.0
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 12.5
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 11.3
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 6.4
+        }
+      ]
+    },
+    {
+      "race_name": "Mexico City Grand Prix",
+      "year": 2022,
+      "winner": "Daniel Ricciardo",
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 24.4
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 16.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 12.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 10.6
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 5.0
+        }
+      ]
+    },
+    {
+      "race_name": "United States Grand Prix",
+      "year": 2022,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 18.4
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 18.0
+        },
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 15.0
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 10.3
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 10.2
+        }
+      ]
+    },
+    {
+      "race_name": "Japanese Grand Prix",
+      "year": 2022,
+      "winner": "Sebastian Vettel",
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 16.3
+        },
+        {
+          "driver": "Esteban Ocon",
+          "percentage": 14.5
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.2
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "percentage": 9.7
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 7.3
+        }
+      ]
+    },
+    {
+      "race_name": "Singapore Grand Prix",
+      "year": 2022,
+      "winner": "Sergio Perez",
+      "voting_results": [
+        {
+          "driver": "Sergio Perez",
+          "percentage": 22.6
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 16.8
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 9.6
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 9.4
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 7.9
+        }
+      ]
+    },
+    {
+      "race_name": "Italian Grand Prix",
+      "year": 2022,
+      "winner": "Nyck de Vries",
+      "voting_results": [
+        {
+          "driver": "Nyck de Vries",
+          "percentage": 24.8
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 21.1
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.2
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 11.1
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 7.4
+        }
+      ]
+    },
+    {
+      "race_name": "Dutch Grand Prix",
+      "year": 2022,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 22.6
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 20.1
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 9.5
+        },
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 8.8
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 6.9
+        }
+      ]
+    },
+    {
+      "race_name": "Belgian Grand Prix",
+      "year": 2022,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 31.9
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 7.6
+        },
+        {
+          "driver": "Alex Albon",
+          "percentage": 6.8
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 6.5
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 6.4
+        }
+      ]
+    },
+    {
+      "race_name": "Hungarian Grand Prix",
+      "year": 2022,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 34.2
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 16.4
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 11.0
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 8.7
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 6.6
+        }
+      ]
+    },
+    {
+      "race_name": "French Grand Prix",
+      "year": 2022,
+      "winner": "Carlos Sainz",
+      "voting_results": [
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 40.4
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 13.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 10.7
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 6.4
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 5.4
+        }
+      ]
+    },
+    {
+      "race_name": "Austrian Grand Prix",
+      "year": 2022,
+      "winner": "Mick Schumacher",
+      "voting_results": [
+        {
+          "driver": "Mick Schumacher",
+          "percentage": 24.5
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 15.3
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 10.1
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 9.6
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 8.0
+        }
+      ]
+    },
+    {
+      "race_name": "British Grand Prix",
+      "year": 2022,
+      "winner": "Sergio Perez",
+      "voting_results": [
+        {
+          "driver": "Sergio Perez",
+          "percentage": 20.7
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 20.0
+        },
+        {
+          "driver": "Mick Schumacher",
+          "percentage": 7.1
+        }
+      ]
+    },
+    {
+      "race_name": "Canadian Grand Prix",
+      "year": 2022,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 21.6
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 11.9
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 10.6
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 10.2
+        },
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 6.0
+        }
+      ]
+    },
+    {
+      "race_name": "Azerbaijan Grand Prix",
+      "year": 2022,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 14.8
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.6
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "percentage": 13.1
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 10.0
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 9.3
+        }
+      ]
+    },
+    {
+      "race_name": "Monaco Grand Prix",
+      "year": 2022,
+      "winner": "Sergio Perez",
+      "voting_results": [
+        {
+          "driver": "Sergio Perez",
+          "percentage": 27.6
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 10.5
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 9.9
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 8.8
+        },
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 7.4
+        }
+      ]
+    },
+    {
+      "race_name": "Spanish Grand Prix",
+      "year": 2022,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 22.8
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 16.3
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 15.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 11.4
+        },
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 6.9
+        }
+      ]
+    },
+    {
+      "race_name": "Miami Grand Prix",
+      "year": 2022,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 18.0
+        },
+        {
+          "driver": "Mick Schumacher",
+          "percentage": 14.5
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 12.7
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 8.6
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 7.6
+        }
+      ]
+    },
+    {
+      "race_name": "Emilia Romagna Grand Prix",
+      "year": 2022,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 14.7
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 11.5
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 11.0
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 9.3
+        },
+        {
+          "driver": "Yuki Tsunoda",
+          "percentage": 8.7
+        }
+      ]
+    },
+    {
+      "race_name": "Australian Grand Prix",
+      "year": 2022,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 19.7
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 14.8
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 9.4
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 9.3
+        },
+        {
+          "driver": "Alex Albon",
+          "percentage": 8.2
+        }
+      ]
+    },
+    {
+      "race_name": "Saudi Arabian Grand Prix",
+      "year": 2022,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 26.8
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 14.5
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 10.1
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 9.5
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "percentage": 7.5
+        }
+      ]
+    },
+    {
+      "race_name": "Bahrain Grand Prix",
+      "year": 2022,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 28.3
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "percentage": 22.5
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 9.0
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 5.1
+        },
+        {
+          "driver": "Zhou Guanyu",
+          "percentage": 5.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "race_name": "Austrian Grand Prix",
+  "year": 2024,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 24.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 16.4
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 10.7
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 8.2
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 6.7
+    }
+  ]
+}

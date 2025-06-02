@@ -1,0 +1,27 @@
+{
+  "race_name": "Austrian Grand Prix",
+  "year": 2023,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 26.1
+    },
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 22.4
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 21.8
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 7.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 6.5
+    }
+  ]
+}

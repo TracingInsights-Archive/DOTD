@@ -1,0 +1,27 @@
+{
+  "race_name": "Miami Grand Prix",
+  "year": 2023,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 27.1
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 12.5
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 9.8
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 8.6
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 7.9
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "race_name": "Abu Dhabi Grand Prix",
+  "year": 2022,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 56.6
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 9.1
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 6.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 5.5
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 4.8
+    }
+  ]
+}

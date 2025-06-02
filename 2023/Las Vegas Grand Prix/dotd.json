@@ -1,0 +1,27 @@
+{
+  "race_name": "Las Vegas Grand Prix",
+  "year": 2023,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 21.6
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 19.1
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 13.4
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 13.0
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 6.2
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "race_name": "United States Grand Prix",
+  "year": 2023,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 26.0
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 23.3
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 14.4
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 7.5
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 6.8
+    }
+  ]
+}

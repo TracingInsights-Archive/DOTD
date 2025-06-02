@@ -1,0 +1,27 @@
+{
+  "race_name": "Emilia Romagna Grand Prix",
+  "year": 2024,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 31.4
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 11.3
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 9.0
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 8.6
+    },
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 6.5
+    }
+  ]
+}

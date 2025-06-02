@@ -1,0 +1,27 @@
+{
+  "race_name": "Abu Dhabi Grand Prix",
+  "year": 2023,
+  "winner": "Yuki Tsunoda",
+  "voting_results": [
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 24.2
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 14.3
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 11.3
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 9.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 9.0
+    }
+  ]
+}

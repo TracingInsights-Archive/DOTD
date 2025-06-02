@@ -1,0 +1,27 @@
+{
+  "race_name": "United States Grand Prix",
+  "year": 2022,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 18.4
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 18.0
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 15.0
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 10.3
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 10.2
+    }
+  ]
+}

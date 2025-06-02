@@ -1,0 +1,27 @@
+{
+  "race_name": "Italian Grand Prix",
+  "year": 2023,
+  "winner": "Carlos Sainz",
+  "voting_results": [
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 31.5
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 14.8
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 13.3
+    },
+    {
+      "driver": "Alex Albon",
+      "percentage": 10.7
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 6.0
+    }
+  ]
+}

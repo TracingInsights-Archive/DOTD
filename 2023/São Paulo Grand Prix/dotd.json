@@ -1,0 +1,27 @@
+{
+  "race_name": "São Paulo Grand Prix",
+  "year": 2023,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 26.1
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 24.7
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 15.8
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 6.0
+    },
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 4.0
+    }
+  ]
+}

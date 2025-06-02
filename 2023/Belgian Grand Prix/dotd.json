@@ -1,0 +1,27 @@
+{
+  "race_name": "Belgian Grand Prix",
+  "year": 2023,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 15.5
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 14.8
+    },
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 14.6
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 8.0
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 7.3
+    }
+  ]
+}

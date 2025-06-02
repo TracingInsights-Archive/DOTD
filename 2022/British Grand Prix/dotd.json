@@ -1,0 +1,19 @@
+{
+  "race_name": "British Grand Prix",
+  "year": 2022,
+  "winner": "Sergio Perez",
+  "voting_results": [
+    {
+      "driver": "Sergio Perez",
+      "percentage": 20.7
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 20.0
+    },
+    {
+      "driver": "Mick Schumacher",
+      "percentage": 7.1
+    }
+  ]
+}

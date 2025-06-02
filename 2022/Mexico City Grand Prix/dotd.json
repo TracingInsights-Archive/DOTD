@@ -1,0 +1,27 @@
+{
+  "race_name": "Mexico City Grand Prix",
+  "year": 2022,
+  "winner": "Daniel Ricciardo",
+  "voting_results": [
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 24.4
+    },
+    {
+      "driver": "Sergio Perez",
+      "percentage": 16.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 12.0
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 10.6
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 5.0
+    }
+  ]
+}

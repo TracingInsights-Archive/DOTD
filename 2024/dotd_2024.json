@@ -1,0 +1,656 @@
+{
+  "year": 2024,
+  "total_races": 24,
+  "last_updated": "2025-01-27",
+  "source_url": "https://www.formula1.com/en/latest/article/driver-of-the-day-2024.1I7A0iPl3nMaXyPIeFVFLZ",
+  "races": [
+    {
+      "race_name": "Abu Dhabi Grand Prix",
+      "year": 2024,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 29.4
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 20.2
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 12.2
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 9.2
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 4.5
+        }
+      ]
+    },
+    {
+      "race_name": "Qatar Grand Prix",
+      "year": 2024,
+      "winner": "Zhou Guanyu",
+      "voting_results": [
+        {
+          "driver": "Zhou Guanyu",
+          "percentage": 29.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 17.5
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 9.8
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 8.6
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 7.4
+        }
+      ]
+    },
+    {
+      "race_name": "Las Vegas Grand Prix",
+      "year": 2024,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 32.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.2
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 10.2
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 7.4
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 6.2
+        }
+      ]
+    },
+    {
+      "race_name": "São Paulo Grand Prix",
+      "year": 2024,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 39.6
+        },
+        {
+          "driver": "Esteban Ocon",
+          "percentage": 11.1
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 6.7
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 5.5
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 5.1
+        }
+      ]
+    },
+    {
+      "race_name": "Mexico City Grand Prix",
+      "year": 2024,
+      "winner": "Carlos Sainz",
+      "voting_results": [
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 27.2
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 12.3
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 9.2
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 8.1
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 7.4
+        }
+      ]
+    },
+    {
+      "race_name": "United States Grand Prix",
+      "year": 2024,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 27.4
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 16.3
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 10.1
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 8.9
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 8.5
+        }
+      ]
+    },
+    {
+      "race_name": "Singapore Grand Prix",
+      "year": 2024,
+      "winner": "Daniel Ricciardo",
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo",
+          "percentage": 20.1
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 17.8
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 13.6
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 8.7
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 8.0
+        }
+      ]
+    },
+    {
+      "race_name": "Azerbaijan Grand Prix",
+      "year": 2024,
+      "winner": "Oscar Piastri",
+      "voting_results": [
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 29.6
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 14.2
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 12.3
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 9.3
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 7.8
+        }
+      ]
+    },
+    {
+      "race_name": "Italian Grand Prix",
+      "year": 2024,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 26.4
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 17.4
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 11.2
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 11.1
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 8.2
+        }
+      ]
+    },
+    {
+      "race_name": "Dutch Grand Prix",
+      "year": 2024,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 24.6
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 17.5
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 14.0
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 8.6
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 7.8
+        }
+      ]
+    },
+    {
+      "race_name": "Belgian Grand Prix",
+      "year": 2024,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 26.1
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 14.9
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 10.7
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 9.4
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 7.1
+        }
+      ]
+    },
+    {
+      "race_name": "Hungarian Grand Prix",
+      "year": 2024,
+      "winner": "Oscar Piastri",
+      "voting_results": [
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 34.9
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 13.9
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 13.8
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 8.2
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 6.7
+        }
+      ]
+    },
+    {
+      "race_name": "British Grand Prix",
+      "year": 2024,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 36.1
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 15.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.4
+        },
+        {
+          "driver": "Nico Hulkenberg",
+          "percentage": 6.6
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 6.4
+        }
+      ]
+    },
+    {
+      "race_name": "Austrian Grand Prix",
+      "year": 2024,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 24.6
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 16.4
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 10.7
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 8.2
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 6.7
+        }
+      ]
+    },
+    {
+      "race_name": "Spanish Grand Prix",
+      "year": 2024,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 28.3
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 15.8
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 15.7
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 7.6
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 7.0
+        }
+      ]
+    },
+    {
+      "race_name": "Canadian Grand Prix",
+      "year": 2024,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 24.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 11.8
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 9.5
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 9.0
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 6.6
+        }
+      ]
+    },
+    {
+      "race_name": "Monaco Grand Prix",
+      "year": 2024,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 32.4
+        },
+        {
+          "driver": "Zhou Guanyu",
+          "percentage": 12.4
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 7.9
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 6.4
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 4.7
+        }
+      ]
+    },
+    {
+      "race_name": "Emilia Romagna Grand Prix",
+      "year": 2024,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 31.4
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 11.3
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 9.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 8.6
+        },
+        {
+          "driver": "Yuki Tsunoda",
+          "percentage": 6.5
+        }
+      ]
+    },
+    {
+      "race_name": "Miami Grand Prix",
+      "year": 2024,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 41.1
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 14.6
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 8.5
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 5.9
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 4.6
+        }
+      ]
+    },
+    {
+      "race_name": "Chinese Grand Prix",
+      "year": 2024,
+      "winner": "Lando Norris",
+      "voting_results": [
+        {
+          "driver": "Lando Norris",
+          "percentage": 26.4
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 13.9
+        },
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 13.6
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 9.0
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 6.3
+        }
+      ]
+    },
+    {
+      "race_name": "Japanese Grand Prix",
+      "year": 2024,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 23.8
+        },
+        {
+          "driver": "Yuki Tsunoda",
+          "percentage": 17.7
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 14.6
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 8.3
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 8.0
+        }
+      ]
+    },
+    {
+      "race_name": "Australian Grand Prix",
+      "year": 2024,
+      "winner": "Carlos Sainz",
+      "voting_results": [
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 38.4
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 11.6
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 10.2
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 8.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 5.5
+        }
+      ]
+    },
+    {
+      "race_name": "Saudi Arabian Grand Prix",
+      "year": 2024,
+      "winner": "Oliver Bearman",
+      "voting_results": [
+        {
+          "driver": "Oliver Bearman",
+          "percentage": 48.3
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 7.3
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "percentage": 6.7
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 5.9
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 5.2
+        }
+      ]
+    },
+    {
+      "race_name": "Bahrain Grand Prix",
+      "year": 2024,
+      "winner": "Carlos Sainz",
+      "voting_results": [
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 31.4
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 13.3
+        },
+        {
+          "driver": "Sergio Perez",
+          "percentage": 11.4
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 8.0
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 5.2
+        }
+      ]
+    }
+  ]
+}

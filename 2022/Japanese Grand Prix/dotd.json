@@ -1,0 +1,27 @@
+{
+  "race_name": "Japanese Grand Prix",
+  "year": 2022,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 16.3
+    },
+    {
+      "driver": "Esteban Ocon",
+      "percentage": 14.5
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 13.2
+    },
+    {
+      "driver": "Nicholas Latifi",
+      "percentage": 9.7
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 7.3
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "race_name": "Japanese Grand Prix",
+  "year": 2025,
+  "winner": "Yuki Tsunoda",
+  "voting_results": [
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 23.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 19.7
+    },
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 13.6
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 7.9
+    },
+    {
+      "driver": "Isack Hadjar",
+      "percentage": 7.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "race_name": "Australian Grand Prix",
+  "year": 2025,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 20.7
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 17.2
+    },
+    {
+      "driver": "Alex Albon",
+      "percentage": 15.9
+    },
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 11.3
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 8.3
+    }
+  ]
+}

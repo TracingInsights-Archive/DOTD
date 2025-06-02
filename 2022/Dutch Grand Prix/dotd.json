@@ -1,0 +1,27 @@
+{
+  "race_name": "Dutch Grand Prix",
+  "year": 2022,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 22.6
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 20.1
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 9.5
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 8.8
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 6.9
+    }
+  ]
+}

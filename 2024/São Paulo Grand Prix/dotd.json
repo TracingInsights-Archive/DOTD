@@ -1,0 +1,27 @@
+{
+  "race_name": "São Paulo Grand Prix",
+  "year": 2024,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 39.6
+    },
+    {
+      "driver": "Esteban Ocon",
+      "percentage": 11.1
+    },
+    {
+      "driver": "Franco Colapinto",
+      "percentage": 6.7
+    },
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 5.5
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 5.1
+    }
+  ]
+}
