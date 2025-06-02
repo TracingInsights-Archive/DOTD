@@ -1,7 +1,7 @@
 {
   "year": 2021,
   "total_races": 21,
-  "last_updated": "2025-06-02T07:43:25.675378+00:00",
+  "last_updated": "2025-06-02T08:34:42.432010+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "race_name": "São Paulo Grand Prix",
+      "race_name": "S\u00e3o Paulo Grand Prix",
       "year": 2021,
       "winner": "Lewis Hamilton",
       "voting_results": [
@@ -492,26 +492,26 @@
     {
       "race_name": "Portuguese Grand Prix",
       "year": 2021,
-      "winner": "1 Sergio Perez",
+      "winner": "Sergio Perez",
       "voting_results": [
         {
-          "driver": "1 Sergio Perez",
+          "driver": "Sergio Perez",
           "percentage": 15.4
         },
         {
-          "driver": "2 Lewis Hamilton",
+          "driver": "Lewis Hamilton",
           "percentage": 12.2
         },
         {
-          "driver": "3 Max Verstappen",
+          "driver": "Max Verstappen",
           "percentage": 10.6
         },
         {
-          "driver": "4 Daniel Ricciardo",
+          "driver": "Daniel Ricciardo",
           "percentage": 10.3
         },
         {
-          "driver": "5 Fernando Alonso",
+          "driver": "Fernando Alonso",
           "percentage": 10.0
         }
       ]

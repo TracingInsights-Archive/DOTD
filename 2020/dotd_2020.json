@@ -1,7 +1,7 @@
 {
   "year": 2020,
-  "total_races": 15,
-  "last_updated": "2025-06-02T07:43:25.682168+00:00",
+  "total_races": 17,
+  "last_updated": "2025-06-02T08:14:02.533196+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
@@ -324,6 +324,60 @@
         {
           "driver": "Sergio Perez",
           "percentage": 5.0
+        }
+      ]
+    },
+    {
+      "race_name": "70th Anniversary Grand Prix",
+      "year": 2020,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 31.8
+        },
+        {
+          "driver": "Nico Hulkenberg",
+          "percentage": 18.0
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 11.9
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 9.3
+        },
+        {
+          "driver": "Alex Albon",
+          "percentage": 6.9
+        }
+      ]
+    },
+    {
+      "race_name": "British Grand Prix",
+      "year": 2020,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": null
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": null
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": null
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": null
+        },
+        {
+          "driver": "Alex Albon",
+          "percentage": null
         }
       ]
     },
