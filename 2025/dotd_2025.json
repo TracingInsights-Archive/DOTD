@@ -1,8 +1,35 @@
 {
   "year": 2025,
-  "total_races": 9,
-  "last_updated": "2025-06-09T12:21:54.014528+00:00",
+  "total_races": 10,
+  "last_updated": "2025-06-16T12:22:29.799617+00:00",
   "races": [
+    {
+      "race_name": "Canadian Grand Prix",
+      "year": 2025,
+      "winner": "Kimi Antonelli",
+      "voting_results": [
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 27.3
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 11.7
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 11.1
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 9.3
+        },
+        {
+          "driver": "Nico Hulkenberg",
+          "percentage": 6.7
+        }
+      ]
+    },
     {
       "race_name": "Spanish Grand Prix",
       "year": 2025,
@@ -226,23 +253,23 @@
       "voting_results": [
         {
           "driver": "Lando Norris",
-          "percentage": 20.7
+          "percentage": 24.0
+        },
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 16.1
         },
         {
           "driver": "Oscar Piastri",
-          "percentage": 17.2
-        },
-        {
-          "driver": "Alex Albon",
-          "percentage": 15.9
-        },
-        {
-          "driver": "Yuki Tsunoda",
           "percentage": 11.3
         },
         {
-          "driver": "Lewis Hamilton",
-          "percentage": 8.3
+          "driver": "Alex Albon",
+          "percentage": 10.9
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 9.0
         }
       ]
     }

@@ -1,0 +1,27 @@
+{
+  "race_name": "Canadian Grand Prix",
+  "year": 2025,
+  "winner": "Kimi Antonelli",
+  "voting_results": [
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 27.3
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 11.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 11.1
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 9.3
+    },
+    {
+      "driver": "Nico Hulkenberg",
+      "percentage": 6.7
+    }
+  ]
+}

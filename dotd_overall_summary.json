@@ -12,8 +12,8 @@
     2025
   ],
   "total_years": 10,
-  "total_races": 198,
-  "last_updated": "2025-06-09T12:21:54.016663+00:00",
+  "total_races": 199,
+  "last_updated": "2025-06-16T12:22:29.801682+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -817,8 +817,12 @@
       ]
     },
     "2025": {
-      "total_races": 9,
+      "total_races": 10,
       "races": [
+        {
+          "race_name": "Canadian Grand Prix",
+          "winner": "Kimi Antonelli"
+        },
         {
           "race_name": "Spanish Grand Prix",
           "winner": "Max Verstappen"
