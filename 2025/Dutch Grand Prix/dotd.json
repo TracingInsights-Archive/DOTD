@@ -1,0 +1,27 @@
+{
+  "race_name": "Dutch Grand Prix",
+  "year": 2025,
+  "winner": "Isack Hadjar",
+  "voting_results": [
+    {
+      "driver": "Isack Hadjar",
+      "percentage": 38.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 8.7
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 8.1
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 6.8
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 5.9
+    }
+  ]
+}

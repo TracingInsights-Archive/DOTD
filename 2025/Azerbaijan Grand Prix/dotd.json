@@ -1,0 +1,27 @@
+{
+  "race_name": "Azerbaijan Grand Prix",
+  "year": 2025,
+  "winner": "Carlos Sainz",
+  "voting_results": [
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 28.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 18.5
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 8.3
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 8.3
+    },
+    {
+      "driver": "Liam Lawson",
+      "percentage": 7.4
+    }
+  ]
+}

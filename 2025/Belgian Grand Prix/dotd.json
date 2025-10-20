@@ -1,0 +1,27 @@
+{
+  "race_name": "Belgian Grand Prix",
+  "year": 2025,
+  "winner": "Lewis Hamilton",
+  "voting_results": [
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 38.8
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 10.6
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 9.6
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 6.7
+    },
+    {
+      "driver": "Alex Albon",
+      "percentage": 6.3
+    }
+  ]
+}

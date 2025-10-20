@@ -1,0 +1,27 @@
+{
+  "race_name": "Singapore Grand Prix",
+  "year": 2025,
+  "winner": "Fernando Alonso",
+  "voting_results": [
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 22.5
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 16.4
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 14.5
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 8.7
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 7.6
+    }
+  ]
+}

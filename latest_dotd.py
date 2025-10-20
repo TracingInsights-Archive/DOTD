@@ -103,7 +103,7 @@ def extract_dotd_data(content, year):
 
     # Find all race sections
     race_sections = re.findall(
-        r"### (FORMULA 1 .+? \d{4})\n\n.*?\n\n(.*?)\n\n\*\*(.*?)\*\*",
+        r"### (FORMULA 1 .+? \d{4})(.*?)[Hh]ere’s how the (?:voting|numbers) broke down…\n\n(.*?)(?=\n### |$)",
         content,
         re.DOTALL,
     )

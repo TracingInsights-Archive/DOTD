@@ -12,8 +12,8 @@
     2025
   ],
   "total_years": 10,
-  "total_races": 199,
-  "last_updated": "2025-10-20T06:22:58.017150+00:00",
+  "total_races": 208,
+  "last_updated": "2025-10-20T07:09:47.664306+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -817,8 +817,44 @@
       ]
     },
     "2025": {
-      "total_races": 10,
+      "total_races": 19,
       "races": [
+        {
+          "race_name": "United States Grand Prix",
+          "winner": "Charles Leclerc"
+        },
+        {
+          "race_name": "Singapore Grand Prix",
+          "winner": "Fernando Alonso"
+        },
+        {
+          "race_name": "Azerbaijan Grand Prix",
+          "winner": "Carlos Sainz"
+        },
+        {
+          "race_name": "Italian Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Dutch Grand Prix",
+          "winner": "Isack Hadjar"
+        },
+        {
+          "race_name": "Hungarian Grand Prix",
+          "winner": "Gabriel Bortoleto"
+        },
+        {
+          "race_name": "Belgian Grand Prix",
+          "winner": "Lewis Hamilton"
+        },
+        {
+          "race_name": "British Grand Prix",
+          "winner": "Nico Hulkenberg"
+        },
+        {
+          "race_name": "Austrian Grand Prix",
+          "winner": "Gabriel Bortoleto"
+        },
         {
           "race_name": "Canadian Grand Prix",
           "winner": "Kimi Antonelli"

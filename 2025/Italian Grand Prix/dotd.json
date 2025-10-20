@@ -1,0 +1,27 @@
+{
+  "race_name": "Italian Grand Prix",
+  "year": 2025,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 29.4
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 17.0
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 10.0
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 8.0
+    },
+    {
+      "driver": "Alex Albon",
+      "percentage": 5.7
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "race_name": "United States Grand Prix",
+  "year": 2025,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 35.0
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 18.2
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 8.9
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 7.8
+    },
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 6.0
+    }
+  ]
+}

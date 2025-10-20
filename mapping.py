@@ -26,7 +26,7 @@ F1_RACES = {
         "FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025": "Canadian Grand Prix",
         "FORMULA 1 MSC CRUISES AUSTRIAN GRAND PRIX 2025": "Austrian Grand Prix",
         "FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2025": "British Grand Prix",
-        "FORMULA 1 MOET & CHANDON BELGIAN GRAND PRIX 2025": "Belgian Grand Prix",
+        "FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2025": "Belgian Grand Prix",
         "FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025": "Hungarian Grand Prix",
         "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025": "Dutch Grand Prix",
         "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025": "Italian Grand Prix",
