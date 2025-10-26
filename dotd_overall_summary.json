@@ -12,8 +12,8 @@
     2025
   ],
   "total_years": 10,
-  "total_races": 208,
-  "last_updated": "2025-10-20T12:22:20.819906+00:00",
+  "total_races": 209,
+  "last_updated": "2025-10-26T22:22:28.011279+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -817,8 +817,12 @@
       ]
     },
     "2025": {
-      "total_races": 19,
+      "total_races": 20,
       "races": [
+        {
+          "race_name": "Mexico City Grand Prix",
+          "winner": "Oliver Bearman"
+        },
         {
           "race_name": "United States Grand Prix",
           "winner": "Charles Leclerc"

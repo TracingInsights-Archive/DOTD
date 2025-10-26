@@ -1,0 +1,27 @@
+{
+  "race_name": "Mexico City Grand Prix",
+  "year": 2025,
+  "winner": "Oliver Bearman",
+  "voting_results": [
+    {
+      "driver": "Oliver Bearman",
+      "percentage": 41.3
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 14.5
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 11.2
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 6.6
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 6.5
+    }
+  ]
+}
