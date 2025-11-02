@@ -1,8 +1,35 @@
 {
   "year": 2025,
-  "total_races": 19,
-  "last_updated": "2025-10-20T12:22:20.816462+00:00",
+  "total_races": 20,
+  "last_updated": "2025-10-27T12:22:39.995733+00:00",
   "races": [
+    {
+      "race_name": "Mexico City Grand Prix",
+      "year": 2025,
+      "winner": "Oliver Bearman",
+      "voting_results": [
+        {
+          "driver": "Oliver Bearman",
+          "percentage": 41.3
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 14.5
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 11.2
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 6.6
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 6.5
+        }
+      ]
+    },
     {
       "race_name": "United States Grand Prix",
       "year": 2025,
